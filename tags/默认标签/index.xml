@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>默认标签 - Tag - YRabbit</title>
+        <link>http://rabit.github.io/tags/%E9%BB%98%E8%AE%A4%E6%A0%87%E7%AD%BE/</link>
+        <description>默认标签 - Tag - YRabbit</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>4776246@gmial.com (YRabbit)</managingEditor>
+            <webMaster>4776246@gmial.com (YRabbit)</webMaster><lastBuildDate>Wed, 16 Nov 2022 21:48:08 &#43;0800</lastBuildDate><atom:link href="http://rabit.github.io/tags/%E9%BB%98%E8%AE%A4%E6%A0%87%E7%AD%BE/" rel="self" type="application/rss+xml" /><item>
+    <title>测试文档</title>
+    <link>http://rabit.github.io/test/</link>
+    <pubDate>Wed, 16 Nov 2022 21:48:08 &#43;0800</pubDate>
+    <author>YRabbit</author>
+    <guid>http://rabit.github.io/test/</guid>
+    <description><![CDATA[标题一号测试文章 这是一篇测试文章 标题二 引用鲁迅的话，他说了什么东西呢 还是标题二 测试一下吧 这个是1 这个是二 这个是他下面的 还有吗 我觉得还有的 下一]]></description>
+</item>
+</channel>
+</rss>
